@@ -1,9 +1,9 @@
 <code_scheme name="AndroidModernStyle">
   <option name="OTHER_INDENT_OPTIONS">
     <value>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="2" />
+      <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="8" />
+      <option name="TAB_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="false" />
       <option name="SMART_TABS" value="false" />
       <option name="LABEL_INDENT_SIZE" value="0" />
@@ -53,7 +53,7 @@
     <option name="LAYOUT_SETTINGS">
       <value>
         <option name="INSERT_BLANK_LINE_BEFORE_TAG" value="false" />
-        <option name="INSERT_LINE_BREAK_AFTER_LAST_ATTRIBUTE" value="true" />
+        <option name="INSERT_LINE_BREAK_AFTER_LAST_ATTRIBUTE" value="false" />
       </value>
     </option>
     <option name="MANIFEST_SETTINGS">
@@ -81,16 +81,16 @@
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
     <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="2" />
+      <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="8" />
+      <option name="TAB_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
     <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="2" />
+      <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="8" />
+      <option name="TAB_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
@@ -130,17 +130,17 @@
     <option name="PARAMETER_ANNOTATION_WRAP" value="1" />
     <option name="VARIABLE_ANNOTATION_WRAP" value="1" />
     <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="2" />
+      <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="8" />
+      <option name="TAB_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="FORCE_REARRANGE_MODE" value="1" />
     <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
+      <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="8" />
+      <option name="TAB_SIZE" value="4" />
     </indentOptions>
     <arrangement>
       <rules>
