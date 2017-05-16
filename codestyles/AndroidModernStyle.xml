@@ -52,18 +52,17 @@
     <option name="USE_CUSTOM_SETTINGS" value="true" />
     <option name="LAYOUT_SETTINGS">
       <value>
-        <option name="INSERT_BLANK_LINE_BEFORE_TAG" value="false" />
         <option name="INSERT_LINE_BREAK_AFTER_LAST_ATTRIBUTE" value="false" />
       </value>
     </option>
     <option name="MANIFEST_SETTINGS">
       <value>
-        <option name="INSERT_LINE_BREAK_AFTER_LAST_ATTRIBUTE" value="true" />
+        <option name="INSERT_LINE_BREAK_AFTER_LAST_ATTRIBUTE" value="false" />
       </value>
     </option>
     <option name="OTHER_SETTINGS">
       <value>
-        <option name="INSERT_LINE_BREAK_AFTER_LAST_ATTRIBUTE" value="true" />
+        <option name="INSERT_LINE_BREAK_AFTER_LAST_ATTRIBUTE" value="false" />
       </value>
     </option>
   </AndroidXmlCodeStyleSettings>
@@ -71,7 +70,8 @@
     <option name="CLASS_NAMES_IN_JAVADOC" value="3" />
   </JavaCodeStyleSettings>
   <XML>
-    <option name="XML_KEEP_BLANK_LINES" value="1" />
+    <option name="XML_KEEP_BLANK_LINES" value="2" />
+    <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="Groovy">
@@ -94,6 +94,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
+    <option name="RIGHT_MARGIN" value="120" />
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
